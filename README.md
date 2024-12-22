@@ -61,7 +61,6 @@ There's a place for you in our magical community!
 ## 🤝 Connect With Us
 
 - [GitHub Organization](https://github.com/GenieWizards)
-- [Add additional social/contact links as needed]
 
 ---
 
