@@ -53,7 +53,7 @@ There's a place for you in our magical community!
 
 ## 📚 Getting Started
 
-1. Explore our repositories
+1. Explore our [repositories](https://github.com/orgs/GenieWizards/repositories)
 2. Find a project that interests you
 3. Read the contribution guidelines in each project
 4. Cast your first spell (make your first contribution)!
